@@ -12,13 +12,13 @@ Tel:+254718922958.
 
 ### Project Description
 
-Password Locker-Is a software application or a hardware device used to store and manage a person's passwords and strong passwords.A user can use the application to log into apps like Facebook,Twitter,Whatsapp and etc.c
+Password Locker-Is a software application or a hardware device used to store and manage a person's passwords and strong passwords.A user can use the application to log into apps like Facebook,Twitter,Whatsapp,Tiktok etc.
 
 #### Project-Setup Instructions
 
 1.Open your github account and search for github username: **suzie254**
 
-2.In suzie254's repositories; git clonethe Password_Locker repository into your local repository using the following link: <https://github.com/suzie254/Password-Locker.git>
+2.In suzie254's repositories; git clonethe Password_Locker repository into your local repository using the following link: **<https://github.com/suzie254/Password-Locker.git>**
 
 3.Open your terminal and run the command ./run.py and use the short codes illustrated to operate....
 
@@ -32,8 +32,8 @@ Password Locker-Is a software application or a hardware device used to store and
 
 ##### Github-link to Password_Locker
 
-The following is the github link to the project "Password_Locker":
-This site lacks github pages:
+The following is the github link to the project "Password-Locker":
+This site lacks github pages:**Not applicable**
 
 **The following include the list of technologies used:**
 
